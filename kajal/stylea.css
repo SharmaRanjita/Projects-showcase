@@ -1,0 +1,94 @@
+*
+{
+margin: auto 0 ;
+}
+.topnav{
+height:60px;
+width:42%;
+color:white;
+Overflow:hidden;
+margin-top:50px;
+margin-left:380px;
+background:#f4f4f4;
+font-size:30px;
+font-style:italic;
+}
+.topnav a {
+  float: left;
+  color: #FF7F50;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+} 
+.topnav a:hover {
+  background-color: #B22222;
+  color: black;
+}
+
+.over{
+color:black;
+font-size:18px;
+margin-right:25px;
+margin-left:84px;
+margin-top:10px;
+}
+.st{
+color:red;
+margin-top:20px;
+margin-left:200px;
+margin-bottom:10px;
+font-size:40px;
+font-style:italic;
+}
+.duration-destination-bg {
+    background: #f5f5f5;
+    border: #e6e6e6 solid 1px;
+    padding-top: 0px;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+    color: #474747;
+    line-height: 26px;
+}
+.day-wise {
+    font-size: 16px;
+    color: #000;
+    padding: 15px 0 20px 15px;
+    font-weight: bold;
+}
+.days-vise span {
+    color: #2a76c2;
+    font-size: 18px;
+    font-weight: bold;
+}
+.expBut {
+    float: right;
+    color: #fff;
+    font-size: 20px;
+    background-color: #d34205;
+    padding: 0 10px 3.5px;
+    margin: 0 10px 0 0px;   
+    border-radius: 3px;
+    cursor: pointer;
+}
+ .strong {
+ 
+    font-weight: bold;
+}
+.table-responsive {
+    min-height: .01%;
+    overflow-x: auto;
+}
+.p {
+    margin: 0 0 10px;
+    line-height: 24px;
+}
+.table-bordered {
+    border: 1px solid #ddd;
+}
+.table {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 20px;
+    background: #FFF;
+}

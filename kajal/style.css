@@ -1,0 +1,455 @@
+*
+{
+margin : 0 auto ;
+}
+.div1
+{
+height:64px;
+width:100%;
+background:white;
+}
+.h1
+{
+color:black;
+margin-left:45px;
+margin-top:10px;
+}
+.a
+{
+margin-left:470px;
+margin-top:-46px
+}
+.a li
+{
+display:inline;
+}
+.a a
+{
+text-decoration:none;
+color:white;
+background:orange;
+padding:16px;
+font-size:25px;
+border-top-left-radius:25px;
+border-top-right-radius:5px;
+border-bottom-left-radius:5px;
+border-bottom-right-radius:25px;
+}
+.div1 a:hover
+{
+background:black;
+color:white;
+}
+.div2
+{
+height:300px;
+width:30% 
+background-size:cover;
+background-image:URL("h2.jpg");
+}
+.qoute
+{
+background:green !important;
+}
+.btn
+{
+height:50px;
+width:35%;
+margin-top:10px;
+font-size:25px;
+background:white;
+border: 5px solid black;  
+border-radius:20px;
+}
+.div3{
+font-size:20px;
+background:white;
+}
+.h2{
+color:red;
+margin-left:50px;
+margin-top:10px;
+font-size:60px;
+font-style:italic;
+}
+.div4
+{
+height:990px;
+width:100%;
+background:#f4f4f4;
+}
+.des{
+display:inline block;
+width:232px;
+top:233px;
+    color: #FFF;
+    font-size: 22px;
+	text-decoration:none;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 14px 41px;
+position:relative;
+}
+.h3
+{
+color:red;
+padding-top:20px;
+padding-bottom:30px;
+margin-left:545px;
+margin-top:15px;
+font-size:40px;
+font-style:italic;
+}
+.box1{
+float:left;
+height:288px;
+width:21%;
+margin-left:120px;
+background:red;
+background-size:cover;
+background-image:url("4o.jpg");
+background:solid blue;
+}
+.box2{
+float:left;
+height:288px;
+width:21%;
+margin-left:19px;
+background:blue;
+background-size:cover;
+background-image:url("32.png");
+background:solid red;
+}
+.box3{
+float:left;
+height:288px;
+width:21%;
+margin-left:19px;
+background:grey;
+background-size:cover;
+background-image:url("34.jpg");
+background:solid black;
+}
+.box4{
+float:left;
+height:288px;
+width:21%;
+margin-left:20px;
+background:orange;
+background-size:cover;
+background-image:url("1o.jpg");
+background:solid black;
+}
+.box5{
+float:left;
+height:288px;
+width:21%;
+margin-top:15px;
+margin-left:120px;
+background:maroon;
+background-size:cover;
+background-image:url("35.jpg");
+background:solid black;
+}
+.box6{
+float:left;
+height:288px;
+width:21%;
+margin-top:15px;
+margin-left:19px;
+background:yellow;
+background-size:cover;
+background-image:url("36.jpg");
+background:solid red;
+}
+.box7{
+float:left;
+height:288px;
+width:21%;
+margin-top:15px;
+margin-left:19px;
+background:black;
+background-size:cover;
+background-image:url("37.jpg");
+background:solid blue;
+}
+.box8{
+float:left;
+height:288px;
+width:21%;
+margin-top:15px;
+margin-left:19px;
+background:green;
+background-size:cover;
+background-image:url("38.jpg");
+background:solid red;  
+}
+.box9{
+float:left;
+height:288px;
+width:21%;
+margin-top:15px;
+margin-left:120px;
+background:red;
+background-size:cover;
+background-image:url("north-india.jpg");
+background:solid black;
+}
+.box10{
+float:left;
+height:288px;
+width:21%;
+margin-top:15px;
+margin-left:19px;
+background:green;
+background-size:cover;
+background-image:url("south india.jpg");
+background:solid red;
+}
+.box11{
+float:left;
+height:288px;
+width:21%;
+margin-top:15px;
+margin-left:19px;
+background:grey;
+background-size:cover;
+background-image:url("north-east-india.png");
+background:solid maroon;
+}
+.box12{
+float:left;
+height:288px;
+width:21%;
+margin-top:15px;
+margin-left:19px;
+background:orange;
+background-size:cover;
+background-image:url("Tamil-nadu-1.jpg");
+background:solid blue;
+}
+
+.div5{
+height:900px;
+width:100%;
+background:white;
+}
+.main{
+display:inline block;
+width:217px;
+top:334px;
+    color: #FFF;
+    font-size: 22px;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 10px 26px;
+    position:relative;
+}
+.h4{
+color:red;
+padding-top:15px;
+margin-left:373px;
+margin-top:30px;
+font-size:45px;
+font-style:italic;
+}
+.boxa1{
+float:left;
+height:380px;
+width:18%;
+margin-top:20px;
+margin-left:222px;
+background:orange;
+background-image:url("39.jpg");
+background-size:cover;
+background:solid black;
+}
+.boxa2{
+float:left;
+height:380px;
+width:18%;
+margin-top:20px;
+margin-left:15px;
+background:red;
+background-image:url("40.jpg");
+background-size:cover;
+background:solid grey;
+}
+.boxa3{
+float:left;
+height:380px;
+width:18%;
+margin-top:20px;
+margin-left:15px;
+background:black;
+background-image:url("41.jpg");
+background-size:cover;
+background:solid red;
+}
+.boxa4{
+float:left;
+height:380px;
+width:18%;
+margin-top:20px;
+margin-left:15px;
+background:blue;
+background-image:url("indonesia.jpg");
+background-size:cover;
+background:solid green;
+}
+.boxa5{
+float:left;
+height:380px;
+width:18%;
+margin-top:20px;
+margin-left:222px;
+background:green;
+background-image:url("duabi.1.jpg");
+background-size:cover;
+background:solid black;
+}
+.boxa6{
+float:left;
+height:380px;
+width:18%;
+margin-top:20px;
+margin-left:15px;
+background:yellow;
+background-image:url("shrilanka@.jpg");
+background-size:cover;
+background:solid red;
+}
+.boxa7{
+float:left;
+height:380px;
+width:18%;
+margin-top:20px;
+margin-left:15px;
+background:maroon;
+background-image:url("mauritius.jpg");
+background-size:cover;
+background:solid black;
+}
+.boxa8{
+float:left;
+height:380px;
+width:18%;
+margin-top:20px;
+margin-left:15px;
+background:orange;
+background-image:url("maldives-beach.jpg");
+background-size:cover;
+background:solid blue;
+}
+
+.div6{
+height:500px;
+width:100%;
+background:#f4f4f4;
+margin-bottom:5px;
+}
+.h5
+{
+color:red;
+padding-top:44px;
+padding-bottom:20px;
+margin-left:582px;
+margin-top:15px;
+font-size:40px;
+font-style:italic;
+}
+.des2{
+display:inline block;
+width:217px;
+top:203px;
+    color: #FFF;
+    font-size:21px;
+	text-decoration:none;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 14px 41px;
+position:relative;
+height:49px;
+}
+.boxb1{
+float:left;
+height:280px;
+width:20%;
+margin-top:10px;
+margin-left:160px;
+background:orange;
+background-image:url("taj mahal.jpg");
+background-size:cover;
+background:solid blue;
+}
+.boxb2{
+float:left;
+height:280px;
+width:20%;
+margin-top:10px;
+margin-left:19px;
+background:grey;
+background-image:url("north india.jpg");
+background-size:cover;
+background:solid maroon;
+}
+.boxb3{
+float:left;
+height:280px;
+width:20%;
+margin-top:10px;
+margin-left:19px;
+background:grey;
+background-image:url("north and south goa tour.jpg");
+background-size:cover;
+background:solid maroon;
+}
+.boxb4{
+float:left;
+height:280px;
+width:20%;
+margin-top:10px;
+margin-left:19px;
+background:grey;
+background-image:url("32.png");
+background-size:cover;
+background:solid maroon;
+}
+.footer{
+background: #253c40;
+    color: #FFF;
+    text-align: center;
+    padding: 10px 0 10px 0px;
+}
+ul.white-text {
+    color: #FFF;
+    padding: 0px;
+    margin: 0px;
+}
+
+ul.white-text a{
+    text-decoration: none;
+    float: left;
+	    color: #FFF;
+	}
+ul.white-text table{
+        width: 99%;
+    display: table;
+}
+.div11{
+height:70px;
+width:100%;
+background:#1b282a;
+color:#fff;
+padding-top:10px;
+padding-bottom:10px;
+}
+.h6{
+color:white;
+margin-top:10px;
+margin-left:200px;
+font-size:40px;
+font-style:italic;
+}
+.icon{
+height: 200px;
+width: 15%;
+float:right;
+}

@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Slider</title>
+<link rel="stylesheet" href="stylea.css">
+<meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="container">
+  <h2><font size="36px"><font color="red">Exotic Land of Hills</font></font></h2>  
+  <em><strong>5 Nights Itinerary Covering: </strong>Pathankot - Dharamshala - Dalhousie - Khajjiar - Chamba - Dalhousie</em>
+  <div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+      <li data-target="#myCarousel" data-slide-to="1"></li>
+      <li data-target="#myCarousel" data-slide-to="2"></li>
+	   <li data-target="#myCarousel" data-slide-to="3"></li>
+    </ol>
+
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner">
+      <div class="item active">
+        <img src="slider exotic land.jpg" alt="Los Angeles" style="width:100%;">
+      </div>
+
+      <div class="item">
+        <img src="slider exotic land2.jpg" alt="Chicago" style="width:100%;">
+      </div>
+    
+	<div class="item">
+        <img src="slider exotic land3.jpg" alt="Chicago" style="width:100%;">
+      </div>
+    
+      <div class="item">
+        <img src="slider exotic land1.jpg" alt="New york" style="width:100%;">
+      </div>
+    </div>
+
+    <!-- Left and right controls -->
+    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
+</div>
+<div class="topnav">
+ <a href="#Overview">Overview</a>
+ <a href="#Highlights">Highlights</a>
+ <a href="#ltinerary">ltinerary</a>
+ <a href="#price">Price</a>
+</div>
+<h2 class="h2"><font color="red">Overview</h2>
+<div class="over"><p>A lot of travelers look for a chance to escape into the loving realms of Himachal Pradesh. This can be well accessed by<br>
+ the kind of happiness and tranquility that flows in every corner of this Northern Indian state. Our Exotic Land of Hills tour<br>
+ proffers the most soothing experience where you get to sightsee the top attractions like Dalhousie, Dharamshala,<br>
+ Chamba, and Khajjiar. Along with that this 5 nights and 6 days  Dalhousie Khajjiar Chamba Dharamshala Tour Itinerary<br>
+ lets our guests revel in the lap of nature, spend time in solace, take back souvenirs, and try delicious delicacies. All in all,<br>
+ this sojourn in Himachal Pradesh brims your heart with memories that you cannot be replaced ever.<br></div>
+ <div class="st">Highlights</div>
+ <div class="over">
+ <ul>
+ <li>
+		Dharamshala sightseeing tour</li>
+		<li>
+		Enjoying the sights of Dalhousie’s top attractions</li>
+		<li>
+		Revel in the charm of Chamba and Khajjiar</li>
+        <li>
+		Try zorbing in Khajjiar</li>
+		</div>
+		
+		<h2 class="h2">Ltinerary</h2>
+		<div class="duration-destination-bg" style="font-size:17px; margin-left:194px; margin-right:156px;">
+	<div class="sys">
+		<div class="days-vise">
+			
+			Day 1 - 
+		
+			<span>Pathankot - Dharamshala</span>
+<div class="expBut">-</div>
+			</div>
+<p>
+				On your arrival at Pathankot railway station, our representative will guide you for the drive to Dharamshala. Check-<br>
+				in at the hotel as soon as you reach and spend some time exploring Dharamshala. The hill town is dipped in the<br>
+				Tibetan culture and is known as the heavenly residence of Dalai Lama.<br></p>
+				<p>
+				Overnight stay.</p>
+				
+	</div>
+</div>
+				
+		<div class="duration-destination-bg" style="font-size:17px; margin-left:194px; margin-right:156px;">
+	<div class="sys">
+		<div class="days-vise">
+			
+			Day 2 - 
+		
+			<span>Dalhousie - Khajjiar - Chamba – Dalhousie</span>
+<div class="expBut">-</div>
+               </div>
+				<p style="overflow: hidden;">
+				A tour to Chamba and Khajjiar is planned for day 5. These towns lay in close proximity to Dalhousie and are blessed<br>
+				with verdant greenery. A wave of fresh air will fill you with positivity as you explore Central Park, Khajjiar Lake, Rang<br>
+				Mahal, Bhuri Singh Museum, and more famous tourist places if time allows. If you love adventure activities, you can<br>
+				try zorbing.<br></p>
+		                                          
+		<p style="overflow: hidden;">
+				Overnight stay in Dalhousie.</p>
+	</div>
+</div>
+<div class="duration-destination-bg" style="font-size:17px; margin-left:194px; margin-right:156px;">
+	<div class="sys">
+		<div class="days-vise">
+			
+			Day 3 - 
+		
+			<span> Dharamshala (McLeod Ganj)</span>
+<div class="expBut">-</div>
+			</div>
+				<p style="overflow: hidden; display: block;">
+				Day 2 comes in with a chance of visiting the top attraction of Dharamshala. Dal Lake, Shiva temple, St. John's<br>
+				Church, Tibetan Monastery and Bhagsu Nag Temple are among the famous sites. Travelers can enjoy shopping, try<br>
+				different dishes or just relax.<br></p>
+		
+				<p style="overflow: hidden; display: block;">
+				Night stay.</p>
+	</div>
+</div>
+<div class="duration-destination-bg" style="font-size:17px; margin-left:194px; margin-right:156px;">
+	<div class="sys">
+				<div class="days-vise">
+			
+			Day 4 - 
+		
+			<span>  Dharamshala - Dalhousie</span>
+<div class="expBut">-</div>
+			</div>
+				<p style="overflow: hidden;">
+				On day 3 you will be experiencing the charm of Dalhousie. The route you will be following to reach the destination is<br>
+				filled with greenery and a very refreshing vibe. As soon as you reach Dalhousie, check-in at the hotel and unwind forbr<br>
+				the day. Later if you wish to, you can go for an excursion around.<br></p>
+				<p style="overflow: hidden;">
+				Overnight stay.</p>
+	</div>
+</div>
+<div class="duration-destination-bg" style="font-size:17px; margin-left:194px; margin-right:156px;">
+	<div class="sys">
+		<div class="days-vise">
+			
+			Day 5 - 
+		
+			<span> Dalhousie</span>
+<div class="expBut">-</div>
+			</div>
+				<p style="overflow: hidden;">
+				On day 4, after a delectable breakfast get ready for a sightseeing tour. Dalhousie makes its name as one of the top<br>
+				hill stations in Himachal Pradesh. The attraction was founded and named after Lord Dalhousie to serve as a summer<br>
+				retreat. One can visit Chamunda Devi Temple, Satdhar Falls, and Kalatop Sanctuary. Rest of the evening is free for<br>
+				leisure activities.<br></p>
+				<p style="overflow: hidden;">
+				Night stay in Dalhousie.</p>
+	</div>
+</div>
+<div class="duration-destination-bg" style="font-size:17px; margin-left:194px; margin-right:156px;">
+	<div class="sys">
+		<div class="days-vise">
+			
+			Day 6 - 
+		
+			<span>  Departure from Dalhousie</span>
+<div class="expBut">-</div>
+			</div>
+				<p style="overflow: hidden;">
+				Today is the last day of your tour, so pack all the wonderful memories and check-out from the hotel. You will be <br>
+				escorted to the Pathankot railway station for your journey ahead.<br></p>
+	</div>
+</div>
+<h2 class="h2" style="font-size:35px;">Price</h2></font>
+<p style="text-align:center; line-height:24px;">
+<strong  style="font-size:16px; color:#000000">Price Per person including all taxes<br></font>
+	<span style="color:#f00;">@ INR 20,400/- x 02 Guests = INR 42,800/-</span>
+	</p>
+	<p style="text-align: center;">
+	<strong>Price Per person including all taxes<br>
+	<span style="color:#f00;">@ INR 19,600/- x 04 Guests = INR 73,500/-</span></strong>
+	</p>
+	<p style="text-align: center;">
+	<strong>Price Per person including all taxes<br>
+	<span style="color:#f00;">@ INR 17,000/- x 06 Guests = INR 1,02,000/-</span></strong>
+	</p>
+</div>
+<p style="text-align: center;">
+<strong>Standard hotel to be used / Similar</strong></p>
+<div class="table-newbg table-responsive">
+	<table border="0" cellpadding="0" class="table table-striped table-bordered">
+		<tbody>
+			<tr style="background-color:#47b008; color:#FFF;">
+				<th style="text-align: center;">
+					<strong>Days</strong></th>
+				<th style="text-align: center;">
+					<strong>Schedule</strong></th>
+				<th style="text-align: center;">
+					<strong>Standard Hotel </strong></th>
+				<th style="text-align: center;">
+					<strong>Room Category</strong></th>
+				<th style="text-align: center;">
+					<strong>Meals</strong></th>
+			</tr>
+			<tr>
+				<td style="text-align: center;">
+					1</td>
+				<td style="text-align: center;">
+					Pathankot - Dharamshala</td>
+				<td style="text-align: center;">
+					Hotel Triund Heights</td>
+				<td style="text-align: center;">
+					Deluxe Room</td>
+				<td style="text-align: center;">
+					Dinner</td>
+			</tr>
+			<tr>
+				<td style="text-align: center;">
+					2</td>
+				<td style="text-align: center;">
+					Dharamshala</td>
+				<td style="text-align: center;">
+					Hotel Triund Heights</td>
+				<td style="text-align: center;">
+					Deluxe Room</td>
+				<td style="text-align: center;">
+					Breakfast &amp; Dinner</td>
+			</tr>
+			<tr>
+				<td style="text-align: center;">
+					3</td>
+				<td style="text-align: center;">
+					Dalhousie Drive</td>
+				<td style="text-align: center;">
+					Indraprastha Resort</td>
+				<td style="text-align: center;">
+					Deluxe Room</td>
+				<td style="text-align: center;">
+					Breakfast&nbsp;&amp; Dinner</td>
+			</tr>
+			<tr>
+				<td style="text-align: center;">
+					4</td>
+				<td style="text-align: center;">
+					Dalhousie Sightseeing</td>
+				<td style="text-align: center;">
+					Indraprastha Resort</td>
+				<td style="text-align: center;">
+					Deluxe Room</td>
+				<td style="text-align: center;">
+					Breakfast&nbsp;&amp; Dinner</td>
+			</tr>
+			<tr>
+				<td style="text-align: center;">
+					5</td>
+				<td style="text-align: center;">
+					Khajjiar – Chamba</td>
+				<td style="text-align: center;">
+					Indraprastha Resort</td>
+				<td style="text-align: center;">
+					Deluxe Room</td>
+				<td style="text-align: center;">
+					Breakfast&nbsp;&amp; Dinner</td>
+			</tr>
+			<tr>
+				<td style="text-align: center;">
+					6</td>
+				<td style="text-align: center;">
+					Dharamshala to Pathankot</td>
+				<td style="text-align: center;">
+					-</td>
+				<td style="text-align: center;">
+					-</td>
+				<td style="text-align: center;">
+					Breakfast</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<p style="text-align: center;">
+	<strong>Price Per person including all taxes<br>
+	<span style="color:#f00;">@ INR 24,200/- x 02 Guests = INR 48,400/-</span></strong></p>
+	<p style="text-align: center;">
+	<strong>Price Per person including all taxes<br>
+	<span style="color:#f00;">@ INR 21,000/- x 04 Guests = INR 84,000/-</span></strong></p>
+	<p style="text-align: center;">
+	<strong>Price Per person including all taxes<br>
+	<span style="color:#f00;">@ INR 18,700/- x 06 Guests = INR 1,12,200/-</span></strong></p>
+	<p style="text-align: center;">
+	<strong>Deluxe hotel to be used / Similar</strong></p>
+	<div class="table-newbg table-responsive">
+	<table border="0" cellpadding="0" class="table table-striped table-bordered">
+		<tbody>
+			<tr style="background-color:#47b008; color:#FFF;">
+				<th style="text-align: center;">
+					<strong>Days</strong></th>
+				<th style="text-align: center;">
+					<strong>Schedule</strong></th>
+				<th style="text-align: center;">
+					<strong>Deluxe Hotel </strong></th>
+				<th style="text-align: center;">
+					<strong>Room Category</strong></th>
+				<th style="text-align: center;">
+					<strong>Meals</strong></th>
+			</tr>
+			<tr>
+				<td style="text-align: center;">
+					1</td>
+				<td style="text-align: center;">
+					Pathankot - Dharamshala</td>
+				<td style="text-align: center;">
+					Inclover</td>
+				<td style="text-align: center;">
+					Executive Rooms</td>
+				<td style="text-align: center;">
+					Dinner</td>
+			</tr>
+			<tr>
+				<td style="text-align: center;">
+					2</td>
+				<td style="text-align: center;">
+					Dharamshala</td>
+				<td style="text-align: center;">
+					Inclover</td>
+				<td style="text-align: center;">
+					Executive Rooms</td>
+				<td style="text-align: center;">
+					Breakfast &amp; Dinner</td>
+			</tr>
+			<tr>
+				<td style="text-align: center;">
+					3</td>
+				<td style="text-align: center;">
+					Dalhousie Drive</td>
+				<td style="text-align: center;">
+					Grand View Hotel</td>
+				<td style="text-align: center;">
+					Deluxe Room</td>
+				<td style="text-align: center;">
+					Breakfast&nbsp;&amp; Dinner</td>
+			</tr>
+			<tr>
+				<td style="text-align: center;">
+					4</td>
+				<td style="text-align: center;">
+					Dalhousie Sightseeing</td>
+				<td style="text-align: center;">
+					Grand View Hotel</td>
+				<td style="text-align: center;">
+					Deluxe Room</td>
+				<td style="text-align: center;">
+					Breakfast&nbsp;&amp; Dinner</td>
+			</tr>
+			<tr>
+				<td style="text-align: center;">
+					5</td>
+				<td style="text-align: center;">
+					Khajjiar – Chamba</td>
+				<td style="text-align: center;">
+					Grand View Hotel</td>
+				<td style="text-align: center;">
+					Deluxe Room</td>
+				<td style="text-align: center;">
+					Breakfast&nbsp;&amp; Dinner</td>
+			</tr>
+			<tr>
+				<td style="text-align: center;">
+					6</td>
+				<td style="text-align: center;">
+					Dharamshala to Pathankot</td>
+				<td style="text-align: center;">
+					-</td>
+				<td style="text-align: center;">
+					-</td>
+				<td style="text-align: center;">
+					Breakfast</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+</body>
+</html>

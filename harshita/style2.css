@@ -1,0 +1,106 @@
+.p1
+{
+height:56px;
+width:100%;
+margin-top:20px;
+
+}
+
+
+.div1new
+{
+float: left;
+height: 265px;
+width: 20%;
+margin-left:50px;
+margin-top: 30px;
+background-image:url("headph/headph.jpg");
+background-size: cover;
+box-shadow: 5px 5px 5px  #888888;
+}
+.div2
+{
+float:left;
+height:265px;
+width:20%;
+margin-left: 35px;
+margin-top: 30px;
+background-image:url("headph/headph2.jpg");
+background-size: cover;
+box-shadow: 5px 5px 5px  #888888;
+
+}
+.div3
+{
+float: left;
+height: 265px;
+width:20%;
+margin-left: 35px;
+margin-top: 30px;
+background-image:url("headph/headph3.jpg");
+background-size: cover;
+box-shadow: 5px 5px 5px  #888888;
+}
+.div4
+{
+float: left;
+height: 265px;
+width: 20%;
+margin-left: 35px;
+margin-top: 30px;
+background-image:url("headph/headph4.jpg");
+background-size: cover;
+box-shadow: 5px 5px 5px  #888888;
+}
+.div5
+{
+float: left;
+height: 265px;
+width: 20%;
+margin-top: 100px;
+margin-left:50px;
+background-image:url("headph/headph5.jpg");
+background-size: cover;
+box-shadow: 5px 5px 5px  #888888;
+}
+.div6
+{
+float: left;
+height: 265px;
+width: 20%;
+margin-top: 100px;
+margin-left: 35px;
+background-image:url("headph/headph6.jpg");
+background-size: cover;
+box-shadow: 5px 5px 5px  #888888;
+}
+.div7
+{
+float: left;
+height: 265px;
+width: 20%;
+margin-top: 100px;
+margin-left: 35px;
+background-image:url("headph/headph7.jpg");
+background-size: cover;
+box-shadow: 5px 5px 5px  #888888;
+}
+.div8
+{
+float: left;
+height: 265px;
+width: 20%;
+margin-top: 100px;
+margin-left: 35px;
+background-image:url("headph/headph8.jpg");
+background-size: cover;
+box-shadow: 5px 5px 5px  #888888;
+}
+.content
+{
+margin-top: 270px;
+color: solid black;
+font-size:22px;
+font-style: italic;
+}
+

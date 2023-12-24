@@ -1,0 +1,116 @@
+.p2
+{
+height:56px;
+width:100%;
+margin-top:20px;
+
+}
+
+
+.data1
+{
+float: left;
+height: 265px;
+width: 20%;
+margin-left:50px;
+margin-top: 30px; 
+background-image: url("card/2gb.jpg");
+background-size: cover;
+box-shadow: 5px 5px 5px #888888;
+
+}
+.text
+{
+height:55px;
+width: 268px;
+margin-top: 200px;
+
+}
+
+.data2
+{
+float:left;
+height:265px;
+width:20%;
+margin-left: 35px;
+margin-top: 30px;
+background-image:url("card/16g.jpg");
+background-size: cover;
+box-shadow: 5px 5px 5px  #888888;
+}
+.data3
+{
+float: left;
+height: 265px;
+width:20%;
+margin-left: 35px;
+margin-top: 30px;
+background-image:url("card/16gb2.jpg");
+background-size: cover;
+box-shadow: 5px 5px 5px  #888888;
+
+}
+.data4
+{
+float: left;
+height: 265px;
+width: 20%;
+margin-left: 35px;
+margin-top: 30px;
+background-image:url("card/32gb.jpg");
+background-size: cover;
+box-shadow: 5px 5px 5px  #888888;
+
+}
+.data5
+{
+float: left;
+height: 265px;
+width: 20%;
+margin-top: 100px;
+margin-left:50px;
+background-image:url("card/32gb2.jpg");
+background-size: cover;
+box-shadow: 5px 5px 5px  #888888;
+
+}
+.data6
+{
+float: left;
+height: 265px;
+width: 20%;
+margin-top: 100px;
+margin-left: 35px;
+background-image: url("card/32sam.jpg");
+background-size: cover;
+box-shadow: 5px 5px 5px  #888888;
+}
+.data7
+{
+float: left;
+height: 265px;
+width: 20%;
+margin-top: 100px;
+margin-left: 35px;
+background-image:url("card/64.jpg");
+background-size: cover;
+box-shadow: 5px 5px 5px  #888888;
+}
+.data8
+{
+float: left;
+height: 265px;
+width: 20%;
+margin-top: 100px;
+margin-left: 35px;
+background-image:url("card/64gb1.jpg");
+background-size: cover;
+box-shadow: 5px 5px 5px  #888888;
+}
+.content1
+{
+margin-top: 270px;
+color: solid black;
+font-size:22px;
+font-style: italic;
+}

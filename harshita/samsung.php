@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> samsung </title>
+<style>
+*
+{
+margin: 0 auto;
+}
+.div0
+{
+height:100px;
+width:100%;
+background:#212F3C;
+}
+.heading
+{
+text-align:center;
+padding:0;
+color:white;
+text-transform: uppercase;
+font-family: 'Roboto',sans-serif;
+font-size:90px;
+}
+div.gallery {
+  margin: 70px;
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+transform: scale(1.1);
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 13px;
+  text-align: center;
+}
+
+</style>
+</head>
+<body bgcolor="white" >
+<?php
+include("header.php");
+?>
+
+<div class="div0">
+<h1 class="heading"> SAMSUNG </h1>
+</div>
+<div class="gallery">
+  <a href="S a10.html">
+    <img src="project/a110.jpg" alt="51" width="500" height="400">
+  </a>
+  <div class="desc">SAMSUNG A10 <br>Price: 20,000<br><button class="buy"> Buy </th></center></button></div>
+</div>
+
+<div class="main_gallery">
+<div class="gallery">
+  <a href="samsung j4.html">
+    <img src="project/j44.jpg" alt="J4" width="600" height="400">
+  </a>
+  <div class="desc">GALAXY J4<br>Price: 8,490<br><button class="buy"> Buy </th></center></button></div>
+</div>
+
+<div class="gallery">
+  <a href="samsung j7 pro.html">
+    <img src="project/j7.jpg" alt="J7" width="500" height="400">
+  </a>
+  <div class="desc"> GALAXY J7pro<br>Price: 19,900<br><button class="buy"> Buy </th></center></button></div>
+</div>
+
+<div class="gallery">
+  <a href="samsung j2.html">
+    <img src="project/SamsungGalaxyJ22017.jpg" alt="J2" width="400" height="400">
+  </a>
+  <div class="desc">SAMSUNG J2 2017<br>Price: 9,890<br><button class="buy"> Buy </th></center></button></div>
+</div>
+
+<div class="gallery" style="float:right !important;">
+  <a href="samsung s duos.html">
+    <img src="project/sduos.jpg" alt="J2 2017" width="600" height="400">
+  </a>
+  <div class="desc">SAMSUNG S DUOS<br>Price: 7,690<br><button class="buy"> Buy </th></center></button></div>
+</div>
+
+<div class="gallery">
+  <a  href="samsung j7 duo.html">
+    <img src="project/j7d.jpg" alt="S DUOS 3" width="500" height="400">
+  </a>
+  <div class="desc">SAMSUNG J7 DUO<br>Price: 5,330<br><button class="buy"> Buy </th></center></button></div>
+</div>
+
+<div class="gallery">
+  <a href="samsung a9.html">
+    <img src="project/a9.jpg" alt="J7 DUO" width="600" height="400">
+  </a>
+  <div class="desc">SAMSUNG A9<br>Price: 7,990<br><button class="buy"> Buy </th></center></button></div>
+</div>
+
+<div class="gallery">
+  <a href="samsung a7.html">
+    <img src="project/a77.jpg" alt="A7" width="600" height="400">
+  </a>
+  <div class="desc">GALAXY A7<br>Price: 17,900<br><button class="buy"> Buy </th></center></button></div>
+  </div>
+
+<?php
+include("footer.php");
+?>
